@@ -1,0 +1,2 @@
+
+	fmt.Println(findNumbers(s))
